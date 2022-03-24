@@ -113,7 +113,7 @@ Open cmd and go to the `labelImg <#labelimg>`__ directory
 
 .. code:: shell
 
-    pyrcc4 -o libs/resources.py resources.qrc
+    pyrcc5 -o libs/resources.py resources.qrc
     For pyqt5, pyrcc5 -o libs/resources.py resources.qrc
 
     python labelImg.py
